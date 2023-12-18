@@ -17,7 +17,7 @@ a:hover{
 }
 
     .title {
- background-image: url(builders-main.jpg);  /* Pic/homepagebg\(low\ exp\).png */
+ background-image: url(Pic/homepagebg\(low\ exp\).png);  /* Pic/homepagebg\(low\ exp\).png   builders-main.jpg*/
         background-repeat: no-repeat;
         background-position: center;
         background-size:cover;
@@ -81,7 +81,7 @@ nav a {
     font-style: normal;
     font-weight: 700;
     display: block;
-    padding: 30px 7px;
+    padding: 30px 30px;
     float: right;
     font-size: 14px;
     position: relative;
