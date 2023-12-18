@@ -68,7 +68,7 @@ nav a {
     font-style: normal;
     font-weight: 700;
     display: block;
-    padding: 2cpx 7px;        /*    7 back to 30 */
+    padding: 30px 30px;        /*    7 back to 30 */
     float: right;
     font-size: 14px;
     position: relative;
